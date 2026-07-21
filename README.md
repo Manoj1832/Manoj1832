@@ -15,10 +15,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
-      <p>🎓 6th semester <b>Computer Science Engineering</b> student at PSG College of Technology, Coimbatore</p>
-      <p>⚡ Aspiring <b>Software Development Engineer</b> with a focus on scalable, user-focused applications</p>
-      <p>🤖 Building <b>Agentic AI systems, RAG pipelines, and multi-agent architectures</b></p>
-      <p>💼 Freelance web developer — shipping client sites and full-stack products</p>
+      <p>CS Engineering student and freelance developer who builds scalable, AI-driven systems — from agentic multi-agent architectures to full-stack products, end to end.</p>
     </td>
     <td width="40%" valign="top" align="center">
       <img width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding Animation">
@@ -66,59 +63,39 @@
 
 ## 💼 Experience
 
-**Software Engineering Virtual Experience — JPMorgan Chase & Co.** · *July 2025*
-- Completed hands-on software engineering tasks simulating real-world SDE challenges
-- Integrated Apache Kafka for real-time data streaming and configured an H2 database
-- Developed and tested REST APIs, including a REST API Controller for efficient request handling
+**Software Engineering Virtual Experience — JPMorgan Chase & Co.** *(2025)*
+Simulated enterprise SDE work: real-time data streaming with Kafka, database configuration, and REST API development.
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Currently Building
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AI_Powered_Recruiting-00BFFF?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Multi_Agent_Systems-FF4500?style=for-the-badge&logo=probot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Quantum_Code_Review-8A2BE2?style=for-the-badge&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IoT_Smart_Farming-32CD32?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HireLens-00BFFF?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AURIXA-FF4500?style=for-the-badge&logo=probot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QiskitSage-8A2BE2?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Smart_Farming-32CD32?style=for-the-badge&logoColor=white"/>
 </p>
 
-**🧑‍💼 HireLens** — AI-Powered Smart Recruiting System *(Jan 2026 – Present)*
-- End-to-end recruiting platform that parses resumes, extracts skills, and generates adaptive MCQs using an LLM (React.js + FastAPI + MongoDB)
-- Timed skill tests with anti-cheat proctoring (MediaPipe) and a dynamic mark allocation engine, targeting a 50% reduction in recruiter screening time
-
-**📦 AURIXA** — Autonomous ERP Demand Spike Detection & Planning System *(Jan 2026 – Present)*
-- Multi-agent system (LangGraph + CrewAI) with Demand Analyst, Procurement, and Workforce Planner agents for autonomous supply-chain crisis response
-- Agents auto-select vendors via Redis vector search, generate POs, reallocate shifts, and reroute warehouse stock with a human approval gate — 91.1% overall AI accuracy
-
-**⚛️ QiskitSage** — AI-Powered Code Review System for Quantum Computing *(Jan 2026 – Present)*
-- Multi-agent automated code review system for IBM's Qiskit SDK, with specialized agents for syntax, performance, semantics, and FFI safety analysis of Python–Rust hybrid codebases
-- ContextGraph with AST parsing and GitHub integration, running on local Ollama LLM for sub-1-minute reviews with zero API costs
-
-**🌾 Smart Farming** — IoT-based Crop Monitoring System *(Jul 2024 – Present)*
-- Real-time soil and weather monitoring system with automated threshold alerts for farmers
+🧑‍💼 **HireLens** turns resumes into ranked, tested candidates through automated parsing and adaptive assessment.
+📦 **AURIXA** lets AI agents sense demand spikes and coordinate the supply-chain response on their own.
+⚛️ **QiskitSage** brings automated multi-agent code review to quantum computing SDKs.
+🌾 **Smart Farming** keeps an eye on soil and weather in real time, so farmers don't have to.
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Certifications
 
-**PSG College of Technology, Coimbatore** — B.E. Computer Science and Engineering *(Aug 2025 – Present)*
-
-## 📜 Certifications & Training
-
-- **Responsive Web Design** — freeCodeCamp *(2025)*: 300+ hours of hands-on projects in HTML5, CSS3, and Flexbox
-- **Networking Basics** — Cisco Networking Academy *(2025)*: IPv4/IPv6, wireless access, protocols, and network devices
-
-## 🌍 Languages
-
-Tamil — Native &nbsp;|&nbsp; English — Fluent
+**B.E. Computer Science and Engineering** — PSG College of Technology, Coimbatore *(2025 – Present)*
+Certified in Responsive Web Design (freeCodeCamp) and Networking Basics (Cisco Networking Academy).
 
 ---
 
 ## 📊 Git Insights & Statistics
 
 <div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Manoj1832&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Manoj1832&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 ---
@@ -136,5 +113,5 @@ Tamil — Native &nbsp;|&nbsp; English — Fluent
 
 <div align="center">
   <h3>✨ Build → Learn → Ship 🚀</h3>
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=flat-square&color=00BFFF" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Manoj1832&style=flat-square&color=00BFFF" alt="Profile Views" />
 </div>
